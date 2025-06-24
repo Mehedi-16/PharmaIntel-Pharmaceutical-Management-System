@@ -37,7 +37,7 @@ PharmaIntel is built to streamline pharmaceutical operations. It supports multip
 
 ## 📸 Screenshots
 
-<img width="300" alt="Admin Dashboard 1" src="https://github.com/user-attachments/assets/5602d33d-dee9-4c4b-bd62-4d9633747c10" />  
+<img width="300" alt="Admin Dashboard 1" src="https://github.com/user-attachments/assets/5602d33d-dee9-4c4b-bd62-4d9633747c10" /> <br>
 <img width="300" alt="Admin Dashboard 2" src="https://github.com/user-attachments/assets/b3ab541a-4b9c-4c79-b6c5-12f08a7cd09d" />  
 <img width="300" alt="Admin Dashboard 3" src="https://github.com/user-attachments/assets/abdef5da-e377-4626-9a31-29e4f5f5ccb3" />
 
